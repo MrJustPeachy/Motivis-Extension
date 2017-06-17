@@ -1,0 +1,9 @@
+{
+  "manifest_version": 2,
+  "name": "Motivis-Social",
+  "version": "0.0.1",
+
+  "default_locale": "en",
+  "description": "Extends Motivis' functionality to allow greater networking among apprenctices.",
+
+}
