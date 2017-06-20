@@ -1,8 +1,8 @@
-var twitterURL = chrome.extension.getURL("twitter.png");
-var linkedinURL = chrome.extension.getURL("linkedin-logo.png");
-var snapchatURL = chrome.extension.getURL("snapchat.png");
-var facebookURL = chrome.extension.getURL("social-facebook-icon.png");
-var githubURL = chrome.extension.getURL("github.png");
+var twitterURL = chrome.extension.getURL("images/twitter.png");
+var linkedinURL = chrome.extension.getURL("images/linkedin-logo.png");
+var snapchatURL = chrome.extension.getURL("images/snapchat.png");
+var facebookURL = chrome.extension.getURL("images/social-facebook-icon.png");
+var githubURL = chrome.extension.getURL("images/github.png");
 
 // Twitter Link
 $(".user-information").append('<a href="https://www.twitter.com/mrjustpeachy"> <img id="twitter-icon" src="twitter.png" alt="Twitter Logo" height="40" width="40"/> </a>');

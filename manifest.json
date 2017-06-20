@@ -16,5 +16,5 @@
       "matches": ["https://careerwisecolorado.force.com/motivisu__UnityProfilePage?id=*"]
   }],
     
-  "web_accessible_resources": ["twitter.png", "linkedin-logo.png", "github.png", "snapchat.png", "social-facebook-icon.png"]
+  "web_accessible_resources": ["images/twitter.png", "images/linkedin-logo.png", "images/github.png", "images/snapchat.png", "images/social-facebook-icon.png"]
 }
