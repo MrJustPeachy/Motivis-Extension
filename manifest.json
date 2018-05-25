@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Motivis-Social",
+  "name": "Socialize Motivis",
   "version": "0.1.0",
 
   "description": "Extends Motivis' functionality to allow greater networking among apprenctices.",
@@ -13,7 +13,7 @@
   "content_scripts": [{
       "css": ["style.css"],
       "js": ["jquery-3.2.1.js", "popup.js"],
-      "matches": ["https://careerwisecolorado.force.com/motivisu__UnityProfilePage?id=*"]
+      "matches": ["https://careerwisecolorado.force.com/careerwise/motivis_lrm__UnityProfilePage?id=*"]
   }],
     
   "web_accessible_resources": ["images/twitter.png", "images/linkedin-logo.png", "images/github.png", "images/snapchat.png", "images/social-facebook-icon.png"]
